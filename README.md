@@ -1,5 +1,6 @@
 PROTOTYPE OF AUGMENTED REALITY FOR THE LEARNING OF THE MOVEMENT OF THE EARTH AND ITS BEHAVIOR IN THE FACE OF NATURAL DISASTERS IN EARTHQUAKES
-
+augmented reality
+unity and vuforia
 
 https://play.google.com/store/apps/details?id=com.Earthquake.Earthquakeapp
 
